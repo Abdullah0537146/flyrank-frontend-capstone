@@ -4,7 +4,7 @@ Flyrank Ai Internship
 
 ## Tech Stack
 
-- **Framework:** React / Next.js (or whichever you choose)
+- **Framework:** React / Next.js 
 - **Styling:** Tailwind CSS
 - **Language:** TypeScript
 - **Other tools:** (state management, API client, testing library, etc.)
@@ -12,7 +12,7 @@ Flyrank Ai Internship
 ## Getting Started
 
 ### Prerequisites
-- Node.js (version X or higher)
+- Node.js (v18)
 - npm / yarn / pnpm
 
 ### Installation
