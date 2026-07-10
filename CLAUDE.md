@@ -9,4 +9,5 @@
 - Use clean, modular, functional components.
 - Prioritize semantic HTML and accessible UI design.
 - Keep components small and specialized.
-- Follow Conventional Commits for all repository update.
+- Follow Conventional Commits for all repository update.    
+- Ensure all component files use PascalCase.
