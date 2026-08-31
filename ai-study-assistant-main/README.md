@@ -20,7 +20,7 @@ A full-stack AI study helper that turns your notes into **explanations**, **quiz
 - **Markdown**: `react-markdown` + `remark-gfm`
 
 ## 🧠 Architecture (High-level)
-Browser UI → `fetch("/api/study")` → Next.js API Route → Groq LLM → JSON response → UI renders Markdown
+Browser UI → `fetch("/api/study")` → Next.js API Route → Gemini LLM → JSON response → UI renders Markdown
 
 ## 🚀 Getting Started (Local)
 1) Install Node.js (LTS recommended)
